@@ -1,0 +1,33 @@
+.main{
+    padding: 10px;
+    display: flex;
+    /* justify-content: center; */
+    margin:20px;
+    width: 350px;
+    height: 250px;
+    margin-bottom: 30px;
+    border: 2px solid;
+    background-color: bisque;
+}
+.imgContainer{
+    margin-right: 10px;
+  
+}
+.imgStyling{
+    margin: 15px;
+    width: 150px;
+    height: 220px;
+    box-shadow: 2px solid;
+}
+.name{
+    color: royalblue;
+    font-size: 20px;
+
+}
+.child{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+
+}
